@@ -1,7 +1,10 @@
 {
-  "main.css": "static/css/main.c17080f1.css",
-  "main.css.map": "static/css/main.c17080f1.css.map",
-  "main.js": "static/js/main.29c8893e.js",
-  "main.js.map": "static/js/main.29c8893e.js.map",
-  "static\\media\\logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "static/css/main.67dbcba2.css",
+  "main.css.map": "static/css/main.67dbcba2.css.map",
+  "main.js": "static/js/main.39b5d696.js",
+  "main.js.map": "static/js/main.39b5d696.js.map",
+  "static\\media\\bg_fall.jpg": "static/media/bg_fall.44224804.jpg",
+  "static\\media\\bg_spring.jpg": "static/media/bg_spring.1ac2ba9d.jpg",
+  "static\\media\\bg_summer.png": "static/media/bg_summer.b81de700.png",
+  "static\\media\\bg_winter.jpg": "static/media/bg_winter.1e5cbf8a.jpg"
 }
